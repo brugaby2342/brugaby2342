@@ -4,7 +4,7 @@
 I'm Gabriela - Curious Learner
 I'm not a programmer, but I'm here to learn more about technology.
 Through GitHub, I hope to learn how to use digital tools that can help me in my field of work, as well as create simple projects.
-If you'd like to send me tips, contact me via email gabrielarsartor@gmail.com or Instagram @gabbooks.
+If you'd like to send me tips, contact me via email gabrielarsartor@gmail.com or Instagram @brugabirs.
 
 Recent achievements:
 
