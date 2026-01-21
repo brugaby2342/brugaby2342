@@ -1,18 +1,49 @@
-## Hi there 👋
+## Olá, eu sou a Gabi 👋
+### 🎓 Estudante de IA & Automação Digital | em transição de carreira
 
+Aprendiz Curiosa 
 
-I'm Gabriela - Curious Learner
-I'm not a programmer, but I'm here to learn more about technology.
-Through GitHub, I hope to learn how to use digital tools that can help me in my field of work, as well as create simple projects.
-If you'd like to send me tips, contact me via email gabrielarsartor@gmail.com or Instagram @brugabirs.
+Sou uma profissional que preza por organização e eficiência, migrando da área Notarial e Registral (Cartório) para a Tecnologia. Minha paixão se tornou a tecnologia assim que a descobri. Lamento ter sido tão recente, pois foi através da programação que me encontrei.
 
-Recent achievements:
+### 🚀 Sobre Mim
 
-Created my first repository
-Learned about main, branches, pull requests, and basic terms.
+- 🏛️ **Background:** Venho de uma sólida experiência como **Escrevente de Cartório** e **Orientadora no Kumon**, onde desenvolvi rigor analítico, lógica matemática e gestão de processos.
+- 💻 **Atualmente:** Cursando o 1º semestre de **IA e Automação Digital** na UniFECAF/Rocketseat e **Full Stack** na Rocketseat.
+- 🎯 **Foco:** Busco oportunidades de Estágio Remoto para atuar com **Python**, **Automação (RPA/No-code)** e **Dados**.
+- 🧠 **Curiosidade:** Adoro Lógica de Programação. O raciocínio lógico sempre foi meu forte (tanto que já repeti 3 vezes a palavra neste parágrafo) 
 
-I love: cats, books, design, and learning more every day.
-<!--
+### 🛠️ Tech Stack & Ferramentas - algumas das principais já aprendidas na graduação
+
+**Linguagens:**
+Python
+HTML5
+CSS3
+JavaScript
+SQL
+
+**Automação & No-Code**
+Make.com
+n8n
+Webflow
+
+**Ferramentas**
+Git
+VSCode
+Notion
+
+### 📊 Meus estudos
+
+Estou constantemente estudando, participando de algum evento ou cursando cursos complementares. Alguns tópicos de meu interesse no momento:
+- 🐍 Algoritmos, Lógica de programação e Python.
+- 🤖 Engenharia de Prompt e Integração de APIs de IA.
+- ⚡ Automação de fluxos administrativos (RPA).
+- Linguagem C
+
+### 📫 Contato
+
+Se quiser me enviar dicas, entre em contato comigo por e-mail gabrielarsartor@gmail.com ou pelo Instagram @brugabirs.
+
+<!-- 
 
 **brugaby2342/brugaby2342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
