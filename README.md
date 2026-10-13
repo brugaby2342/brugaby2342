@@ -8,7 +8,7 @@ Gosto de transformar problemas do dia a dia em soluções simples e bem resolvid
 - **IA e Automação Digital** na UniFECAF + Rocketseat (em andamento)
 - **Full Stack** na Rocketseat (em andamento)
 - **Algoritmos** na Rocketseat (concluído)
-- **Discovery** na Rocketseat (concluído)
+- **Discover** na Rocketseat (concluído)
 
 ### 🛠️ Stack
 
